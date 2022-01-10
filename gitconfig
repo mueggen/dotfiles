@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = tatiana.tenuta@gmail.com
+	name = Tatiana Tenuta
